@@ -6,7 +6,7 @@
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
-../.idea/
+/.idea/
 # 不包含编译文件
-../out/
-../src/*.iml
+/out/
+/src/*.iml
