@@ -8,5 +8,5 @@
 /httpRequests/
 /.idea/
 # 不包含编译文件
-/out/
+out/
 /src/*.iml
