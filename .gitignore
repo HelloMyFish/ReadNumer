@@ -18,6 +18,8 @@
 *.zip
 *.tar.gz
 *.rar
+
+#注释
 /out/
 /.idea/
 *.iml
